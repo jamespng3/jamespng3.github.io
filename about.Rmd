@@ -1,5 +1,5 @@
 ---
-title: "My awesome website"
+title: "qPCR's, The Breakdown"
 output: 
   html_document:
     toc: true
@@ -7,9 +7,10 @@ output:
     theme: cerulean
 ---
 
-# This is Jeff's awesome website 
+# This is my boring website for class
 
-off to page 2 ![](about.html)
+Welcome to my life
+
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
@@ -25,4 +26,3 @@ I often use [google](https://google.com) todo **data science**
 
 
 
-vv

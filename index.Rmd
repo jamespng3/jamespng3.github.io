@@ -7,9 +7,9 @@ output:
     theme: cerulean
 ---
 
-# This is Jeff's awesome website 
+# This is Jimmys website 
 
-off to page 2 ![](about.html)
+off to ![page2](about.html)
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 

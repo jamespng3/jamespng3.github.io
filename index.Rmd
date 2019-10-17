@@ -4,12 +4,13 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 # This is Jimmys website 
 
-off to ![page2](about.html)
+off to [page2](about.html)
+
+
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 

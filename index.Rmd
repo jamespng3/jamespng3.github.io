@@ -1,29 +1,25 @@
 ---
-title: "My awesome website"
+title: "Welcome to James's Webpage"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is Jimmys website 
+Hi! You have found my webpage. Have a look around and see some of the stuff i have done in the past.
+<p>
 
-off to [page2](about.html)
+</p>
 
+Mostly a lot of this:
+<p>
 
+<img src="images/7500-Dye.jpg" style="width:75%" >
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+</p>
+<p>
+And remember, it's dangerous to go alone. 
+Take this!!
+</p>
+<center><img src="images/triforce.jpg" style="width:75%" ></center>
 
-#
-
-I often use [google](https://google.com) todo **data science**
-
-### Let's add image
-
-![](7500-Dye.jpg)
-
-
-
-
-
-vv

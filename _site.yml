@@ -1,18 +1,18 @@
-name: "Yay internet!"
+name: "Yay internet"
 output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
+    - text: "Resume"
       href: about.html
-    - text: "Examples"
+    - text: "Plots"
       menu:
       - text: "Plotly"
         href: plotly.html
       - text: "Dashboard"
         href: dashboard.html
     - icon: fa-envelope fa-lg
-      href: mailto:mtgmwiz@yahoo.com
+      href: mailto:nj2208@cumc.columbia.edu
     - icon: fa-github fa-lg
       href: http://github.com/jamespng3/
 output:

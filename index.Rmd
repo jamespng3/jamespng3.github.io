@@ -5,21 +5,18 @@ output:
     toc: true
     toc_float: true
 ---
-
-Hi! You have found my webpage. Have a look around and see some of the stuff i have done in the past.
 <p>
+Hi! You have found my webpage. This page was made as part of homework 04 for P8105 at Columbia University. Have a look around and see some of the stuff i have done in the past.
 
-</p>
 
 Mostly a lot of this:
-<p>
 
 <img src="images/7500-Dye.jpg" style="width:75%" >
 
-</p>
-<p>
-And remember, it's dangerous to go alone. 
-Take this!!
-</p>
-<center><img src="images/triforce.jpg" style="width:75%" ></center>
 
+And remember, it's dangerous to go alone. <br>
+Take this!!
+
+<img src="images/triforce.jpg" style="width:50%" >
+
+</p>
